@@ -4,7 +4,7 @@
 
 // Check with your instructor to see whether you should put this class in
 // a package. At the moment, it is declared as part of edu.colorado.homework:
-package com.bayviewglen.git;
+package src.com.bayviewglen.git;
 
 /******************************************************************************
 * This class is a homework assignment;									       
